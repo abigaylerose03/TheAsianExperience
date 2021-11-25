@@ -189,6 +189,8 @@
 
 #see-image1 {
 	content: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgSPVMUb-emX7ivf82Z6jFHr-WWz0zYgY0VU7xa3VNDrAHDwBRymNE-2trEraUG7Zqhk&usqp=CAU");
+	width: 300px;
+	height: 400px;
 }
 
 #see-image2 {
@@ -262,6 +264,7 @@
 /* rain representing one of the books */
 #see-image13 {
 	content: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1205%2F5946%2Fproducts%2FJungle_Rain_grande.jpg%3Fv%3D1497388431&f=1&nofb=1");
+	margin-bottom: 12rem;
 	height: 300px;
 	width: 300px;
 
@@ -269,12 +272,14 @@
 /* whath smells like home to me is pho */
 #see-image14 {
 	content: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F1537983658%2Fvietnamese-beef-and-noodle-soup-1811-p32.jpg%3Fitok%3DvnPwDmbS&f=1&nofb=1");
+	margin-bottom: 12rem;
 	height: 300px;
 	width: 300px;
 }
 
 #see-image15 {
 	content: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwsmag.net%2Fwp-content%2Fuploads%2F2020%2F11%2FPoulsbo_S_WHG20F.jpg&f=1&nofb=1");
+	margin-bottom: 12rem;
 	width: 400px;
 	height: 400px;
 }
@@ -286,16 +291,17 @@
 }
 
 /* asian hustle network */
-/*#see-image10 {
+#see-image17 {
 	content: url("https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/d8/images/canvas/2021/10/13/5706b96d-d2ac-4b92-848b-138b4394759e_ef6ecc7a.jpg?itok=N8hd4pZM&v=1634131885");
-	height: 200px;
-	width: 100px;
-}*/
+	height: 300px;
+	width: 300px;
+}
 /* asian boss girl */
-/*#see-image11 {
+#see-image18 {
 	content: url("https://images.squarespace-cdn.com/content/v1/592fd02f29687ffb1f82f4b7/1592460761255-4VGCM7TQBGV3KFBAAYS7/IMG_4539.jpg?format=1000w");
-
-}*/
+	height: 300px;
+	width: 500px;
+}
 
 /*.big:after {
 	 content: "";
@@ -352,6 +358,6 @@
 	font-family: 'Georgia', 'sans-serif';
 	font-size: 30px;
 	background-color: #ffe6e6;
-	width: 100px;
-	height: 10;
+	width: 200px;
+	height: 50px;
 }
