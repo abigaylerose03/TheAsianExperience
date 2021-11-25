@@ -255,8 +255,8 @@
 
 #see-image12 {
 	content: url("https://elavegan.com/wp-content/uploads/2021/02/vegan-vegetable-dumplings-on-black-plate-with-sauce.jpg");
-	height: 200px;
-	width: 200px;
+	height: 400px;
+	width: 400px;
 }
 
 /* rain representing one of the books */
@@ -265,6 +265,24 @@
 	height: 300px;
 	width: 300px;
 
+}
+/* whath smells like home to me is pho */
+#see-image14 {
+	content: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F1537983658%2Fvietnamese-beef-and-noodle-soup-1811-p32.jpg%3Fitok%3DvnPwDmbS&f=1&nofb=1");
+	height: 300px;
+	width: 300px;
+}
+
+#see-image15 {
+	content: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwsmag.net%2Fwp-content%2Fuploads%2F2020%2F11%2FPoulsbo_S_WHG20F.jpg&f=1&nofb=1");
+	width: 400px;
+	height: 400px;
+}
+
+#see-image16 {
+	content: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frsc2.saatscommerce.com%2Fimg5540726b35561_l.jpg&f=1&nofb=1");
+	width: 400px;
+	height: 400px;
 }
 
 /* asian hustle network */
